@@ -1,0 +1,22 @@
+* {
+	font-family: Arial;
+}
+div {
+	background-color: #ffffff;
+	border: 1px solid gray;
+	margin-right: 1em;
+	margin-top: 1em;
+	padding: 1em;
+}
+.otherContent, .sssContent {
+	left: 1em;
+	position: absolute;
+	top: 2em;
+}
+.otherInactive, .sssInactive {
+	display: none;
+}
+.wrapper {
+	/* height: 15em; */
+	position: relative;
+}
